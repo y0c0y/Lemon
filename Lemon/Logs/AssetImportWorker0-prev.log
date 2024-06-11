@@ -16,10 +16,13 @@ D:/Projects/Lemon/Lemon
 Logs/AssetImportWorker0.log
 -srvPort
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 55568
 Successfully changed project path to: D:/Projects/Lemon/Lemon
 D:/Projects/Lemon/Lemon
 =======
+=======
+>>>>>>> Stashed changes
 60664
 Successfully changed project path to: C:/Users/josan/Desktop/Lemon/Lemon
 C:/Users/josan/Desktop/Lemon/Lemon
@@ -56,6 +59,7 @@ C:/Users/josan/Desktop/Lemon/Lemon
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Player connection [24500] Host "[IP] 192.168.219.101 [Port] 0 [Flags] 2 [Guid] 3032039818 [EditorId] 3032039818 [Version] 1048832 [Id] WindowsEditor(7,BOOK-OUSQR4NV2G) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
 Player connection [24500] Host "[IP] 192.168.219.101 [Port] 0 [Flags] 2 [Guid] 3032039818 [EditorId] 3032039818 [Version] 1048832 [Id] WindowsEditor(7,BOOK-OUSQR4NV2G) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
@@ -76,6 +80,10 @@ Direct3D:
 =======
 Player connection [1876] Host "[IP] 172.19.144.1 [Port] 0 [Flags] 2 [Guid] 4099494257 [EditorId] 4099494257 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-9J1FDN8) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
+=======
+Player connection [1876] Host "[IP] 172.19.144.1 [Port] 0 [Flags] 2 [Guid] 4099494257 [EditorId] 4099494257 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-9J1FDN8) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+>>>>>>> Stashed changes
 Player connection [1876] Host "[IP] 172.19.144.1 [Port] 0 [Flags] 2 [Guid] 4099494257 [EditorId] 4099494257 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-9J1FDN8) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 [Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
@@ -91,11 +99,15 @@ Direct3D:
     Vendor:   Intel
     VRAM:     8028 MB
     Driver:   27.20.100.9415
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/MonoBleedingEdge/etc'
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56284
 Begin MonoManager ReloadAssembly
@@ -109,6 +121,8 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling: 570ms
 	BeginReloadAssembly (141ms)
 =======
+=======
+>>>>>>> Stashed changes
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56952
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -120,11 +134,15 @@ Mono: successfully reloaded assembly
 - Finished resetting the current domain, in  0.873 seconds
 Domain Reload Profiling: 4626ms
 	BeginReloadAssembly (1913ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 		CreateAndSetChildDomain (0ms)
 	RebuildCommonClasses (34ms)
@@ -150,6 +168,8 @@ Domain Reload Profiling: 4626ms
 			ProcessInitializeOnLoadAttributes (95ms)
 			ProcessInitializeOnLoadMethodAttributes (36ms)
 =======
+=======
+>>>>>>> Stashed changes
 		CreateAndSetChildDomain (3ms)
 	RebuildCommonClasses (282ms)
 	RebuildNativeTypeToScriptingClass (43ms)
@@ -173,6 +193,9 @@ Domain Reload Profiling: 4626ms
 			BeforeProcessingInitializeOnLoad (5ms)
 			ProcessInitializeOnLoadAttributes (424ms)
 			ProcessInitializeOnLoadMethodAttributes (182ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
@@ -182,8 +205,13 @@ Domain Reload Profiling: 4626ms
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - Loaded All Assemblies, in  0.637 seconds
 Refreshing native plugins compatible for Editor in 2.36 ms, found 3 plugins.
+=======
+- Loaded All Assemblies, in  2.053 seconds
+Refreshing native plugins compatible for Editor in 16.20 ms, found 3 plugins.
+>>>>>>> Stashed changes
 =======
 - Loaded All Assemblies, in  2.053 seconds
 Refreshing native plugins compatible for Editor in 16.20 ms, found 3 plugins.
@@ -194,6 +222,7 @@ Package Manager log level set to [2]
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 - Finished resetting the current domain, in  0.565 seconds
 Domain Reload Profiling: 1201ms
@@ -368,6 +397,8 @@ Unloading 117 unused Assets / (6.5 MB). Loaded Objects now: 6209.
 Memory consumption went from 224.0 MB to 217.5 MB.
 Total: 4.959100 ms (FindLiveObjects: 0.307100 ms CreateObjectMapping: 0.118800 ms MarkObjects: 2.657600 ms  DeleteObjects: 1.874600 ms)
 =======
+=======
+>>>>>>> Stashed changes
 - Finished resetting the current domain, in  1.619 seconds
 Domain Reload Profiling: 3655ms
 	BeginReloadAssembly (435ms)
@@ -548,6 +579,9 @@ Unloading 5609 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 55 unused Assets / (2.1 MB). Loaded Objects now: 6267.
 Memory consumption went from 205.2 MB to 203.1 MB.
 Total: 7.384000 ms (FindLiveObjects: 0.613500 ms CreateObjectMapping: 0.979300 ms MarkObjects: 5.374800 ms  DeleteObjects: 0.414200 ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 Prepare: number of updated asset objects reloaded= 0
@@ -568,35 +602,48 @@ AssetImportParameters requested are different than current active one (requested
 ========================================================================
 Received Import Request.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   Time since last request: 61733.634218 seconds.
   path: Assets/UnityTechnologies/Settings/URP_Asset.asset
   artifactKey: Guid(3d05c7b7a6d4c2846878970b4d86ab11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/UnityTechnologies/Settings/URP_Asset.asset using Guid(3d05c7b7a6d4c2846878970b4d86ab11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbbb031ca08642fc57b148eaa8879f5f') in 0.011007 seconds
 =======
+=======
+>>>>>>> Stashed changes
   Time since last request: 245.997740 seconds.
   path: Assets/Scenes/SampleScene.unity
   artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a85bec50c8be757587fedfaade313866') in 0.002980 seconds
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   Time since last request: 258.319709 seconds.
   path: Assets/UnityTechnologies/Settings/InputSystem.inputsettings.asset
   artifactKey: Guid(4276f55efae594150a9381ed0a8a075c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/UnityTechnologies/Settings/InputSystem.inputsettings.asset using Guid(4276f55efae594150a9381ed0a8a075c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51e1dc0109c5cdf87036c021cccdf761') in 0.001208 seconds
 =======
+=======
+>>>>>>> Stashed changes
   Time since last request: 83.138661 seconds.
   path: Assets
   artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a4fe85251aa2e89732c359432baa2c3') in 0.000905 seconds
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   Time since last request: 0.000024 seconds.
   path: Assets/UnityTechnologies/Settings/URP_ForwardRender_Renderer.asset
@@ -676,6 +723,8 @@ Begin MonoManager ReloadAssembly
 - Loaded All Assemblies, in  0.322 seconds
 Refreshing native plugins compatible for Editor in 1.77 ms, found 3 plugins.
 =======
+=======
+>>>>>>> Stashed changes
   Time since last request: 2.103249 seconds.
   path: Assets/UnityTechnologies
   artifactKey: Guid(5d8321be49b21464fa2632cef97815e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -703,12 +752,16 @@ Received Prepare
 Begin MonoManager ReloadAssembly
 - Loaded All Assemblies, in  0.926 seconds
 Refreshing native plugins compatible for Editor in 22.27 ms, found 3 plugins.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Native extension for WindowsStandalone target not found
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 - Finished resetting the current domain, in  0.889 seconds
 Domain Reload Profiling: 1209ms
@@ -1081,6 +1134,8 @@ Unloading 117 unused Assets / (6.5 MB). Loaded Objects now: 6322.
 Memory consumption went from 237.5 MB to 231.0 MB.
 Total: 5.643000 ms (FindLiveObjects: 0.413100 ms CreateObjectMapping: 0.220700 ms MarkObjects: 2.720500 ms  DeleteObjects: 2.287300 ms)
 =======
+=======
+>>>>>>> Stashed changes
 - Finished resetting the current domain, in  5.287 seconds
 Domain Reload Profiling: 6202ms
 	BeginReloadAssembly (285ms)
@@ -1121,6 +1176,9 @@ Unloading 5610 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 55 unused Assets / (2.1 MB). Loaded Objects now: 6334.
 Memory consumption went from 212.9 MB to 210.8 MB.
 Total: 7.066900 ms (FindLiveObjects: 0.620300 ms CreateObjectMapping: 0.640400 ms MarkObjects: 5.438300 ms  DeleteObjects: 0.366200 ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 Prepare: number of updated asset objects reloaded= 0
@@ -1141,11 +1199,14 @@ AssetImportParameters requested are different than current active one (requested
 ========================================================================
 Received Import Request.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   Time since last request: 1300.438839 seconds.
   path: Assets/Scenes/MainScene_Profiles/GlobalPost Profile.asset
   artifactKey: Guid(24352a1303fd1824ca9b1a943a369dea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/MainScene_Profiles/GlobalPost Profile.asset using Guid(24352a1303fd1824ca9b1a943a369dea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e2aa85555e4dd85911e46ad90fd5788') in 0.019637 seconds
 =======
+=======
+>>>>>>> Stashed changes
   Time since last request: 249.763414 seconds.
   path: Assets/UnityTechnologies/Prefabs/Level.prefab
   artifactKey: Guid(549c69af39b84624b8a053537c407def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -1198,26 +1259,36 @@ Received Import Request.
   path: Assets/UnityTechnologies/Animation/Animators/JohnLemon.controller
   artifactKey: Guid(a21013e6de520e746ba5e0f14be84cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/UnityTechnologies/Animation/Animators/JohnLemon.controller using Guid(a21013e6de520e746ba5e0f14be84cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb1352ef947f1e1d0714730e5356ac3a') in 0.001782 seconds
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
 ========================================================================
 Received Import Request.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   Time since last request: 18.199529 seconds.
   path: Assets/Scenes/MainScene/LightingData.asset
   artifactKey: Guid(a61ceffd0eceb3e4da326f8b98876a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/MainScene/LightingData.asset using Guid(a61ceffd0eceb3e4da326f8b98876a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a54774c24f8403c8dd21baf9d3a501c0') in 0.006858 seconds
 =======
+=======
+>>>>>>> Stashed changes
   Time since last request: 41.962232 seconds.
   path: Assets/UnityTechnologies/Animation/Animators/JohnLemon.controller
   artifactKey: Guid(a21013e6de520e746ba5e0f14be84cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/UnityTechnologies/Animation/Animators/JohnLemon.controller using Guid(a21013e6de520e746ba5e0f14be84cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '920df14a6771be6ad455ca38256a5ac4') in 0.001527 seconds
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   Time since last request: 0.000018 seconds.
   path: Assets/Scenes/MainScene/ReflectionProbe-0.exr
@@ -1231,6 +1302,8 @@ Begin MonoManager ReloadAssembly
 - Loaded All Assemblies, in  0.380 seconds
 Refreshing native plugins compatible for Editor in 2.42 ms, found 3 plugins.
 =======
+=======
+>>>>>>> Stashed changes
   Time since last request: 3.271197 seconds.
   path: Assets/UniversalRenderPipelineGlobalSettings.asset
   artifactKey: Guid(78833967a1430b5419c354e06b771524) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
@@ -2570,12 +2643,16 @@ Received Prepare
 Begin MonoManager ReloadAssembly
 - Loaded All Assemblies, in  1.585 seconds
 Refreshing native plugins compatible for Editor in 10.27 ms, found 3 plugins.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Native extension for WindowsStandalone target not found
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 - Finished resetting the current domain, in  0.919 seconds
 Domain Reload Profiling: 1297ms
@@ -2618,6 +2695,8 @@ Unloading 117 unused Assets / (6.5 MB). Loaded Objects now: 6410.
 Memory consumption went from 244.2 MB to 237.7 MB.
 Total: 5.098800 ms (FindLiveObjects: 0.412300 ms CreateObjectMapping: 0.160500 ms MarkObjects: 2.750700 ms  DeleteObjects: 1.774000 ms)
 =======
+=======
+>>>>>>> Stashed changes
 - Finished resetting the current domain, in  6.910 seconds
 Domain Reload Profiling: 8485ms
 	BeginReloadAssembly (300ms)
@@ -2658,6 +2737,9 @@ Unloading 5611 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 55 unused Assets / (2.1 MB). Loaded Objects now: 6394.
 Memory consumption went from 215.6 MB to 213.5 MB.
 Total: 4.348500 ms (FindLiveObjects: 0.431600 ms CreateObjectMapping: 0.343100 ms MarkObjects: 3.272100 ms  DeleteObjects: 0.300400 ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 Prepare: number of updated asset objects reloaded= 0
@@ -2676,6 +2758,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Received Prepare
 Begin MonoManager ReloadAssembly
@@ -2743,6 +2826,8 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 =======
+=======
+>>>>>>> Stashed changes
 Received Import Request.
   Time since last request: 157.484986 seconds.
   path: Assets/UnityTechnologies/Animation/Animators/JohnLemon.controller
@@ -2750,4 +2835,7 @@ Received Import Request.
 Start importing Assets/UnityTechnologies/Animation/Animators/JohnLemon.controller using Guid(a21013e6de520e746ba5e0f14be84cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf54ffda6dbd7eb3a6f3c8366a5545a9') in 0.029870 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 8
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
